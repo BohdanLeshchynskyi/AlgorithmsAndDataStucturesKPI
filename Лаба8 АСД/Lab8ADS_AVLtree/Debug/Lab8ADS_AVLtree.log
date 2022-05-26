@@ -1,0 +1,5 @@
+﻿  Lab8ADS_AVLtree.cpp
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\Lab8ADS_AVLtree\Lab8ADS_AVLtree.cpp(316,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\Lab8ADS_AVLtree\Lab8ADS_AVLtree.cpp(349,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\Lab8ADS_AVLtree\Lab8ADS_AVLtree.cpp(422,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab8ADS_AVLtree.vcxproj -> C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\Lab8ADS_AVLtree\Debug\Lab8ADS_AVLtree.exe

@@ -1,0 +1,3 @@
+﻿  ADS_Lab5.cpp
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба5 АСД\ADS_Lab5\ADS_Lab5.cpp(177,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ADS_Lab5.vcxproj -> C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба5 АСД\ADS_Lab5\Debug\ADS_Lab5.exe

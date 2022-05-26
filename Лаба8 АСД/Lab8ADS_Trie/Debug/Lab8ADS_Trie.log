@@ -1,0 +1,6 @@
+﻿  Lab8ADS_Trie.cpp
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\Lab8ADS_Trie\Lab8ADS_Trie.cpp(23,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\Lab8ADS_Trie\Lab8ADS_Trie.cpp(39,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\Lab8ADS_Trie\Lab8ADS_Trie.cpp(52,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\Lab8ADS_Trie\Lab8ADS_Trie.cpp(77,23): warning C4018: '<': signed/unsigned mismatch
+  Lab8ADS_Trie.vcxproj -> C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\Lab8ADS_Trie\Debug\Lab8ADS_Trie.exe

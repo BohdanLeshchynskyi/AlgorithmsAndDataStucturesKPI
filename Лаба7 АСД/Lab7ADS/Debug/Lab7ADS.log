@@ -1,0 +1,11 @@
+﻿  Lab7ADS.cpp
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба7 АСД\Lab7ADS\Lab7ADS.cpp(132,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба7 АСД\Lab7ADS\Lab7ADS.cpp(224,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба7 АСД\Lab7ADS\Lab7ADS.cpp(123,16): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба7 АСД\Lab7ADS\Lab7ADS.cpp(162): message : see reference to function template instantiation 'float testPriorityQueueSpeed<std::priority_queue<Data,std::vector<Data,std::allocator<Data>>,std::less<_Ty>>>(T &&)' being compiled
+          with
+          [
+              _Ty=Data,
+              T=std::priority_queue<Data,std::vector<Data,std::allocator<Data>>,std::less<Data>>
+          ]
+  Lab7ADS.vcxproj -> C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба7 АСД\Lab7ADS\Debug\Lab7ADS.exe

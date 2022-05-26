@@ -1,0 +1,8 @@
+﻿  Lab6ADS_openAdress.cpp
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба6 АСД\Lab6ADS_openAdress\Lab6ADS_openAdress.cpp(36,16): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба6 АСД\Lab6ADS_openAdress\Lab6ADS_openAdress.cpp(38,16): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба6 АСД\Lab6ADS_openAdress\Lab6ADS_openAdress.cpp(82,21): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба6 АСД\Lab6ADS_openAdress\Lab6ADS_openAdress.cpp(107,21): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба6 АСД\Lab6ADS_openAdress\Lab6ADS_openAdress.cpp(131,25): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба6 АСД\Lab6ADS_openAdress\Lab6ADS_openAdress.cpp(258,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6ADS_openAdress.vcxproj -> C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба6 АСД\Lab6ADS_openAdress\Debug\Lab6ADS_openAdress.exe

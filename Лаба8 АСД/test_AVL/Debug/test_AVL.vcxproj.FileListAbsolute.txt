@@ -1,0 +1,2 @@
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\test_AVL\Debug\test_AVL.exe
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\test_AVL\Debug\test_AVL.pdb

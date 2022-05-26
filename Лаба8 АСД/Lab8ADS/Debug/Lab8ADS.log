@@ -1,0 +1,5 @@
+﻿  Lab8ADS.cpp
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\Lab8ADS\Lab8ADS.cpp(229,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\Lab8ADS\Lab8ADS.cpp(261,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\Lab8ADS\Lab8ADS.cpp(334,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab8ADS.vcxproj -> C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба8 АСД\Lab8ADS\Debug\Lab8ADS.exe

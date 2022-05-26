@@ -1,0 +1,5 @@
+﻿  Lab6ADS_stringKeys.cpp
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба6 АСД\Lab6ADS_stringKeys\Lab6ADS_stringKeys.cpp(168,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба6 АСД\Lab6ADS_stringKeys\Lab6ADS_stringKeys.cpp(171,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба6 АСД\Lab6ADS_stringKeys\Lab6ADS_stringKeys.cpp(309,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6ADS_stringKeys.vcxproj -> C:\Users\AVT-0517\Desktop\Studium\АСД\Лаба6 АСД\Lab6ADS_stringKeys\Debug\Lab6ADS_stringKeys.exe
